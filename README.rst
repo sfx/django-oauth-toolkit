@@ -90,6 +90,11 @@ Roadmap / Todo list (help wanted)
 Changelog
 ---------
 
+0.7.3 [2014-10-23]
+~~~~~~~~~~~~~~~~~~
+
+* Bump version above whats available in pip. This is a temporary hack
+
 0.7.2 [2014-07-02]
 ~~~~~~~~~~~~~~~~~~
 
